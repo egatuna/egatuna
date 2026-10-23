@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:egatuna@purdue.edu"><img src="https://img.shields.io/badge/Email-egatuna%40purdue.edu-0B1F3A?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/egatuna28"><img src="https://img.shields.io/badge/LinkedIn-egatuna28-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/egatuna"><img src="https://img.shields.io/badge/LinkedIn-egatuna-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://synthlabco.com"><img src="https://img.shields.io/badge/Website-synthlabco.com-1F6F78?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
 </p>
 
@@ -99,6 +99,6 @@ A Purdue VIP research project on how AI resume-screening tools can discriminate 
 ## Contact
 
 - **Purdue email:** [egatuna@purdue.edu](mailto:egatuna@purdue.edu)
-- **LinkedIn:** [linkedin.com/in/egatuna28](https://www.linkedin.com/in/egatuna28)
+- **LinkedIn:** [linkedin.com/in/egatuna](https://www.linkedin.com/in/egatuna)
 - **Website:** [synthlabco.com](https://synthlabco.com)
 - **GitHub:** [github.com/egatuna](https://github.com/egatuna)
