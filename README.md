@@ -63,21 +63,6 @@ I'm a junior at Purdue's Mitchell E. Daniels, Jr. School of Business, studying I
 
 ## Projects
 
-### U.S. Births 2025: CDC Provisional Natality Dashboard
-An interactive Streamlit dashboard of 2025 U.S. birth counts by state, month, and infant sex, built on CDC WONDER provisional data. It has sidebar filters, KPI cards, a U.S. choropleth, a state-by-month heatmap, a searchable table with CSV download, and validation checks that run on every load (1,224 rows: 51 geographies × 12 months × 2 sexes).
-<br>
-**Skills:** Python · pandas · Streamlit · Plotly · Data Validation
-<br>
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0B1F3A?style=for-the-badge&logo=streamlit&logoColor=white)](https://cdc-claude-egatuna.streamlit.app)
-[![Repository](https://img.shields.io/badge/Repository-1F6F78?style=for-the-badge&logo=github&logoColor=white)](https://github.com/egatuna/CDC-Claude)
-
-### NovaRetail Customer Intelligence Dashboard (Group Project)
-An interactive Streamlit dashboard for a retail customer-intelligence director, with an AI chatbot that answers questions about the filtered data. If no API key is set, the chatbot falls back to an offline, rule-based mode that answers from the same data.
-<br>
-**Skills:** Python · pandas · Streamlit · LLM Integration · Dashboard Design
-<br>
-[![Repository](https://img.shields.io/badge/Repository-1F6F78?style=for-the-badge&logo=github&logoColor=white)](https://github.com/egatuna/novaretail-dashboard)
-
 ### Healthcare Staffing Agency Website
 I designed and built my employer's public website from scratch: a multi-page, mobile-responsive site with on-page SEO and GA4 analytics. I also ran the domain cutover from the previous vendor to Netlify with zero downtime and no interruption to company email, and set up SPF, DMARC, and CAA records plus uptime monitoring.
 <br>
