@@ -85,10 +85,24 @@ I designed and built my employer's public website from scratch: a multi-page, mo
 <br>
 [![Live Site](https://img.shields.io/badge/Live_Site-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ensstaffing.com)
 
-### SynthLab: Studio Website and Automation Tooling
-The website for my studio LLC, plus the internal tools behind it: a lead-research pipeline for local trade businesses, a CLI suite that replaces paid SaaS subscriptions (analytics, uptime monitoring, form intake), and AI-assisted build workflows for client sites.
+### synthlab-tools: SaaS-Replacement CLI Suite
+A set of Python command-line tools I built to replace paid subscriptions for my studio: an email finder that rejects any address whose domain has no MX record, a robots-aware SEO auditor with Lighthouse and LLM grading, a long-video-to-vertical-clips pipeline with word-synced captions, a social post scheduler, document Q&A over SQLite full-text search, and a markdown-defined workflow runner. About 4,250 lines, with offline test suites.
 <br>
-**Skills:** Python · SQL · JavaScript · Automation Pipelines · Claude Code
+**Skills:** Python · SQLite · LLM Integration · ffmpeg · Automation · Testing
+<br>
+[![Repository](https://img.shields.io/badge/Repository-1F6F78?style=for-the-badge&logo=github&logoColor=white)](https://github.com/egatuna/synthlab-tools)
+
+### local-agent: Self-Verifying On-Device Coding Agent
+A coding agent that runs a small open model locally through Ollama on an 8 GB laptop. It never trusts the model's "done" claim: the harness re-runs the tests itself before a run can succeed, catches loops, and can hand failed tasks to Claude Code. In my benchmark, the 2B model plus escalation reached a verified-correct result in 2:45 where a 4B model alone took 14:18.
+<br>
+**Skills:** Python · Ollama · Agent Design · Verification · Benchmarking
+<br>
+[![Repository](https://img.shields.io/badge/Repository-1F6F78?style=for-the-badge&logo=github&logoColor=white)](https://github.com/egatuna/local-agent)
+
+### SynthLab: Studio Website
+The website for my studio LLC, which builds websites, automation pipelines, and AI-assisted tools for small businesses.
+<br>
+**Skills:** HTML · CSS · JavaScript · Netlify
 <br>
 [![Live Site](https://img.shields.io/badge/Live_Site-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://synthlabco.com)
 
